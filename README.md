@@ -1,25 +1,62 @@
-## Getting Started
+# 🎁 UnboxMagic – Built with Catalyst
 
-Commence development by initiating the the following commands:
+**UnboxMagic** is a vibrant, server-side rendered web application built using **Catalyst**, designed to help users explore and select meaningful gifts for any occasion. With elegant animations, smooth transitions, and a focus on user experience, this app makes gift discovery delightful.
 
-For running the application in development mode, run:
+From birthdays to holidays, UnboxMagic offers an inspiring interface where users can browse categories, view curated suggestions, and explore gift details with ease. Built using modern SSR principles, it ensures both speed and scalability.
+
+---
+
+## ✨ What Makes It Special
+
+- Built with **Catalyst**, a modern SSR React framework  
+- Thoughtfully designed to provide a **delightful gifting experience**  
+- Lightweight, fast, and optimized for **performance and SEO**  
+- Enhanced with **GSAP animations** and dynamic UI components  
+- Ideal as a **template** for any gift shop, event site, or e-commerce starter
+
+---
+
+## 🔑 Key Features
+
+- 🌐 Server-side rendering (SSR) for fast, SEO-friendly pages  
+- 🚀 Client-side navigation with smooth animated transitions  
+- 🔗 Dynamic routes for browsing gift categories and viewing details  
+- ✨ Fluid UI powered by **GSAP animations**  
+- 🎨 Styled using clean, responsive CSS  
+- 🖼️ Static asset and custom font loading  
+- 📁 Reusable layout components for consistent structure  
+- 📦 Route-based code splitting for optimized performance
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework**: [Catalyst](https://catalyst.1mg.com/public_docs/content/Getting%20Started/getting-started/)  
+- **Language**: JavaScript (React)  
+- **Styling**: CSS  
+- **Animations**: GreenSock Animation Platform
+
+---
+
+## 📦 Installation
 
 ```bash
-npm run start
+
+# Fork the repository to your own GitHub account
+
+# Then clone the forked repository
+git clone https://github.com/your-username/UnboxMagic.git
+
+# Navigate into the project directory
+cd unboxmagic
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
 ```
 
-For a production build, change NODE_ENV to "production" in config/config.json, then run :
-
-```bash
-npm run build
-```
-
-To serve the production build, execute:
-
-```bash
-npm run serve
-```
-
-## Documentation
+## To learn more about Catalyst read the Documentation
 
 Explore the complete documentation at [https://catalyst.1mg.com](https://catalyst.1mg.com).
