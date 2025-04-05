@@ -5,15 +5,15 @@ function Home() {
     return (
         <div className={css.app}>
             <header className={css.appHeader}>
-                <h1 className={css.heading}>Catalyst</h1>
-                <p>Edit files inside src directory and save to reload.</p>
+                <h1 className={css.heading}>Think Gifting</h1>
+                <p>Take a time to gift others</p>
                 <a
                     className={css.appLink}
                     href="https://catalyst.1mg.com"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Learn Catalyst
+                   Think gifting
                 </a>
             </header>
         </div>
