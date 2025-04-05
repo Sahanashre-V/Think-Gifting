@@ -18,9 +18,13 @@
         "@routes": "src/js/routes/"
     },
     "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^6.7.2",
+        "@fortawesome/free-brands-svg-icons": "^6.7.2",
+        "@fortawesome/react-fontawesome": "^0.2.2",
         "@loadable/component": "^5.16.3",
         "@tata1mg/router": "^0.0.1-beta.7",
-        "catalyst-core": "^0.0.1-beta.13"
+        "catalyst-core": "^0.0.1-beta.13",
+        "gsap": "^3.12.7"
     },
     "devDependencies": {
         "eslint": "^8.26.0",
